@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Comparar Palabras</string>
+    <string name="app_titulo">Comparar contenido</string>
+    <string name="primer_texto">Primer texto</string>
+    <string name="segundo_texto">Segundo texto</string>
+    <string name="texto_iguales">Felicitaciones son iguales..!!</string>
+    <string name="texto_desiguales">Lo siento no son iguales :(</string>
+</resources>
